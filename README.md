@@ -2,7 +2,7 @@
 
 ## Overview of the analysis: 
 
-The purpose of our analysis is to use the features in Alphabet Soup dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by the Company.
+The purpose of our analysis is to use the features in Alphabet Soup dataset to create a binary classifier that is capable of predicting applicants success if funded by the Company.
 
 ## Results: 
 
